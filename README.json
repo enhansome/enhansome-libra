@@ -1,353 +1,369 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Libra Wallet",
-          "description": "Wallet frontend, don't have backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-01-04T01:16:35Z",
-            "owner": "dpikalov",
-            "repo": "libra-wallet",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LibraTerminal",
-          "description": "POC command line wallet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-07-24T04:31:09Z",
-            "owner": "sns254",
-            "repo": "LibraTerminal",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Wallets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "librabrowser",
-          "description": "Libra Testnet Explorer and its source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-07T07:26:30Z",
-            "owner": "Disk1n",
-            "repo": "LibraBrowser",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "LibraBlock",
-          "description": "First opensource Libra explorer",
           "children": [
             {
               "node_type": "item",
-              "title": "librablock-frontend",
-              "description": "Open source frontend",
+              "title": "Libra Wallet",
+              "description": "Wallet frontend, don't have backend.",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "language": "TypeScript",
-                "last_commit": "2023-01-04T05:39:25Z",
-                "owner": "libra-china-org",
-                "repo": "librablock-frontend",
-                "stars": 12
+                "archived": false,
+                "id": 193904566,
+                "language": "CSS",
+                "last_commit": "2023-01-04T01:16:35Z",
+                "owner": "dpikalov",
+                "repo": "libra-wallet",
+                "stars": 5
               }
             },
             {
               "node_type": "item",
-              "title": "librablock-backend",
-              "description": "Open source backend",
+              "title": "LibraTerminal",
+              "description": "POC command line wallet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198554630,
+                "language": "Python",
+                "last_commit": "2019-07-24T04:31:09Z",
+                "owner": "sns254",
+                "repo": "LibraTerminal",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wallets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "librabrowser",
+              "description": "Libra Testnet Explorer and its source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192863661,
+                "language": "Python",
+                "last_commit": "2019-08-07T07:26:30Z",
+                "owner": "Disk1n",
+                "repo": "LibraBrowser",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "LibraBlock",
+              "description": "First opensource Libra explorer",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "librablock-frontend",
+                  "description": "Open source frontend",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 194335304,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-04T05:39:25Z",
+                    "owner": "libra-china-org",
+                    "repo": "librablock-frontend",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "librablock-backend",
+                  "description": "Open source backend",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 193499882,
+                    "language": "Go",
+                    "last_commit": "2019-09-16T07:43:35Z",
+                    "owner": "libra-china-org",
+                    "repo": "librabock-backend",
+                    "stars": 8
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Block Explorer"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libra-core",
+              "description": "A javascript client for libra network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193560131,
+                "language": "TypeScript",
+                "last_commit": "2023-01-04T00:59:50Z",
+                "owner": "perfectmak",
+                "repo": "libra-core",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libra-web",
+              "description": "Unofficial Javascript Client for Libra Blockchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195249267,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T03:40:17Z",
+                "owner": "bandprotocol",
+                "repo": "libra-web",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyLibra",
+              "description": "Python SDK client for Libra with full client-side functionality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195068379,
+                "language": "Python",
+                "last_commit": "2022-12-08T05:50:37Z",
+                "owner": "bandprotocol",
+                "repo": "pylibra",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libra-grpc-py",
+              "description": "gRPC client for Libra in Python.",
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 193282710,
+                "language": "Python",
+                "last_commit": "2019-06-23T10:06:12Z",
+                "owner": "egorsmkv",
+                "repo": "libra-grpc-py",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Libra Golang Client",
+              "description": "Go Client for interacting with Libra Blockchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193943214,
                 "language": "Go",
-                "last_commit": "2019-09-16T07:43:35Z",
-                "owner": "libra-china-org",
-                "repo": "librabock-backend",
+                "last_commit": "2019-11-26T12:20:47Z",
+                "owner": "codemaveric",
+                "repo": "libra-go",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-libra",
+              "description": "Libra go client library with crypto verifications.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 195512023,
+                "language": "Go",
+                "last_commit": "2023-02-25T05:48:24Z",
+                "owner": "the729",
+                "repo": "go-libra",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libra SDK for Go",
+              "description": "Go SDK for Libra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193282123,
+                "language": "Go",
+                "last_commit": "2023-02-25T03:34:59Z",
+                "owner": "philippgille",
+                "repo": "libra-sdk-go",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libra_example",
+              "description": "Example Libra Go client SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193184128,
+                "language": "Shell",
+                "last_commit": "2019-06-22T03:12:55Z",
+                "owner": "phlip9",
+                "repo": "libra_example",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jlibra",
+              "description": "A Java library for interacting with the Libra blockchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194726816,
+                "language": "Java",
+                "last_commit": "2025-12-24T14:27:32Z",
+                "owner": "ketola",
+                "repo": "jlibra",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jlibra-spring-boot-starter",
+              "description": "Spring Boot Starter project based on jlibra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198306341,
+                "language": "Java",
+                "last_commit": "2020-10-13T14:49:19Z",
+                "owner": "ice09",
+                "repo": "jlibra-spring-boot-starter",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "java-libra-client",
+              "description": "Java Shell for Libra based on jlibra-spring-boot-starter and jlibra.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198306548,
+                "language": "Java",
+                "last_commit": "2020-10-13T14:49:32Z",
+                "owner": "ice09",
+                "repo": "java-libra-client",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        }
+      ],
+      "title": "SDK"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Libra",
+              "description": "by LearnDapp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194248127,
+                "language": null,
+                "last_commit": "2020-06-22T14:26:21Z",
+                "owner": "learndapp",
+                "repo": "awesome-libra",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Libra",
+              "description": "by Methuz Kaewsaikao",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 192719699,
+                "language": null,
+                "last_commit": "2019-07-08T03:46:04Z",
+                "owner": "methuz",
+                "repo": "Awesome-Libra",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Libra Blockchain",
+              "description": "by Copperbits",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192808071,
+                "language": null,
+                "last_commit": "2019-07-03T06:04:11Z",
+                "owner": "copperbits",
+                "repo": "awesome-libra",
                 "stars": 8
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome Awesomeness"
         }
       ],
-      "title": "Block Explorer"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "libra-core",
-          "description": "A javascript client for libra network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-04T00:59:50Z",
-            "owner": "perfectmak",
-            "repo": "libra-core",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libra-web",
-          "description": "Unofficial Javascript Client for Libra Blockchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T03:40:17Z",
-            "owner": "bandprotocol",
-            "repo": "libra-web",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libra-api",
-          "description": "A REST API for Libra blockchain.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "libra-grpc",
-          "description": "A lightweight JavaScript library for Libra.",
-          "children": []
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PyLibra",
-          "description": "Python SDK client for Libra with full client-side functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T05:50:37Z",
-            "owner": "bandprotocol",
-            "repo": "pylibra",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libra-grpc-py",
-          "description": "gRPC client for Libra in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-06-23T10:06:12Z",
-            "owner": "egorsmkv",
-            "repo": "libra-grpc-py",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Libra Golang Client",
-          "description": "Go Client for interacting with Libra Blockchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-11-26T12:20:47Z",
-            "owner": "codemaveric",
-            "repo": "libra-go",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-libra",
-          "description": "Libra go client library with crypto verifications.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-02-25T05:48:24Z",
-            "owner": "the729",
-            "repo": "go-libra",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Libra SDK for Go",
-          "description": "Go SDK for Libra.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-02-25T03:34:59Z",
-            "owner": "philippgille",
-            "repo": "libra-sdk-go",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libra_example",
-          "description": "Example Libra Go client SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-06-22T03:12:55Z",
-            "owner": "phlip9",
-            "repo": "libra_example",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jlibra",
-          "description": "A Java library for interacting with the Libra blockchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-24T14:27:32Z",
-            "owner": "ketola",
-            "repo": "jlibra",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jlibra-spring-boot-starter",
-          "description": "Spring Boot Starter project based on jlibra.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-10-13T14:49:19Z",
-            "owner": "ice09",
-            "repo": "jlibra-spring-boot-starter",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "java-libra-client",
-          "description": "Java Shell for Libra based on jlibra-spring-boot-starter and jlibra.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-10-13T14:49:32Z",
-            "owner": "ice09",
-            "repo": "java-libra-client",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libraj",
-          "description": "A Java client for libra.",
-          "children": []
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Libra",
-          "description": "by LearnDapp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-06-22T14:26:21Z",
-            "owner": "learndapp",
-            "repo": "awesome-libra",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Libra",
-          "description": "by Methuz Kaewsaikao",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2019-07-08T03:46:04Z",
-            "owner": "methuz",
-            "repo": "Awesome-Libra",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Libra Blockchain",
-          "description": "by Copperbits",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-07-03T06:04:11Z",
-            "owner": "copperbits",
-            "repo": "awesome-libra",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "#awesome-libra",
-          "description": "Topic @ GitHub",
-          "children": []
-        }
-      ],
-      "title": "Awesome Awesomeness"
-    },
-    {
-      "description": "The list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.",
-      "items": [],
-      "title": "License"
+      "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:59:42.624Z",
+    "last_updated": "2026-08-19T11:59:44.168Z",
     "original_repository": "reed-hong/awesome-libra",
+    "original_repository_id": 209956937,
     "original_repository_sha": "3473f68bd10ab71e1ce5cbd1f8838f3ff06ff334",
     "enhanced_repository": "enhansome/enhansome-libra",
     "enhanced_repository_description": null,
