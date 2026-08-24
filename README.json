@@ -308,6 +308,56 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Libra区块链钱包开发实录附源码 - LearnDapp系列",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192945029,
+                "language": null,
+                "last_commit": "2019-08-16T00:14:00Z",
+                "owner": "learndapp",
+                "repo": "LearnDapp",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libra-utils",
+              "description": "Interface to Libra CLI commands to simplify parsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195602987,
+                "language": "Rust",
+                "last_commit": "2019-07-08T10:21:05Z",
+                "owner": "Berkays",
+                "repo": "libra-util",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
+      "title": "Develop"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome Libra",
               "description": "by LearnDapp",
               "children": [],
@@ -361,7 +411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:00:26.184Z",
+    "last_updated": "2026-08-24T13:56:18.853Z",
     "original_repository": "reed-hong/awesome-libra",
     "original_repository_id": 209956937,
     "original_repository_sha": "3473f68bd10ab71e1ce5cbd1f8838f3ff06ff334",

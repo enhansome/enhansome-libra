@@ -92,9 +92,9 @@ A Curated List of Awesome Libra Resources
 
 ## Courses
 
+* [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md) ⭐ 34 | 🐛 0 | 📅 2019-08-16
 * [LearnLibraMove](https://learnlibramove.com/) - Learning Libra Move within 1 hour? Let's try MoveCastle
 * [CryptoZombies](https://cryptozombies.io/libra/) - (Libra/Move Edition) Upcoming! - learn Libra blockchain contract programming by coding your own game using the Move programming language;
-* [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md) ⭐ 34 | 🐛 0 | 📅 2019-08-16
 
 ## Move
 
