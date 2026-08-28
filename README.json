@@ -18,7 +18,8 @@
                 "owner": "dpikalov",
                 "repo": "libra-wallet",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "sns254",
                 "repo": "LibraTerminal",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "Disk1n",
                 "repo": "LibraBrowser",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "group",
@@ -75,7 +78,8 @@
                     "owner": "libra-china-org",
                     "repo": "librablock-frontend",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:31:09.605Z"
                 },
                 {
                   "node_type": "item",
@@ -90,7 +94,8 @@
                     "owner": "libra-china-org",
                     "repo": "librabock-backend",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:31:09.605Z"
                 }
               ]
             }
@@ -120,7 +125,8 @@
                 "owner": "perfectmak",
                 "repo": "libra-core",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "bandprotocol",
                 "repo": "libra-web",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -157,7 +164,8 @@
                 "owner": "bandprotocol",
                 "repo": "pylibra",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -172,7 +180,8 @@
                 "owner": "egorsmkv",
                 "repo": "libra-grpc-py",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -194,7 +203,8 @@
                 "owner": "codemaveric",
                 "repo": "libra-go",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -209,7 +219,8 @@
                 "owner": "the729",
                 "repo": "go-libra",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -224,7 +235,8 @@
                 "owner": "philippgille",
                 "repo": "libra-sdk-go",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -239,7 +251,8 @@
                 "owner": "phlip9",
                 "repo": "libra_example",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -261,7 +274,8 @@
                 "owner": "ketola",
                 "repo": "jlibra",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -276,7 +290,8 @@
                 "owner": "ice09",
                 "repo": "jlibra-spring-boot-starter",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -291,7 +306,8 @@
                 "owner": "ice09",
                 "repo": "java-libra-client",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -319,7 +335,8 @@
                 "owner": "learndapp",
                 "repo": "LearnDapp",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -341,7 +358,8 @@
                 "owner": "Berkays",
                 "repo": "libra-util",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -369,7 +387,8 @@
                 "owner": "learndapp",
                 "repo": "awesome-libra",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -384,7 +403,8 @@
                 "owner": "methuz",
                 "repo": "Awesome-Libra",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             },
             {
               "node_type": "item",
@@ -399,7 +419,8 @@
                 "owner": "copperbits",
                 "repo": "awesome-libra",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:31:09.605Z"
             }
           ],
           "description": null,
@@ -411,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:18:45.340Z",
+    "last_updated": "2026-08-28T21:31:09.605Z",
     "original_repository_info": {
       "archived": false,
       "id": 209956937,
