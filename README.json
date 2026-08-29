@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libra wallet , demo web-app (list accounts, transactions, minting, transfer)",
+                "homepage": null,
                 "id": 193904566,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-01-04T01:16:35Z",
+                "open_issues": 21,
                 "owner": "dpikalov",
                 "repo": "libra-wallet",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line wallet for Libra, written in Python.",
+                "homepage": null,
                 "id": 198554630,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-07-24T04:31:09Z",
+                "open_issues": 0,
                 "owner": "sns254",
                 "repo": "LibraTerminal",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -51,12 +61,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LibraBrowser",
+                "homepage": null,
                 "id": 192863661,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-07T07:26:30Z",
+                "open_issues": 12,
                 "owner": "Disk1n",
                 "repo": "LibraBrowser",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "blockchain",
+                  "blockchain-explorer",
+                  "blockchain-service",
+                  "blockchain-technology",
+                  "blockchain-website",
+                  "calibra",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "facebook",
+                  "libra",
+                  "python",
+                  "python3",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -72,12 +101,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "LibraBlock.io frontend in React",
+                    "homepage": "https://librablock.io",
                     "id": 194335304,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T05:39:25Z",
+                    "open_issues": 23,
                     "owner": "libra-china-org",
                     "repo": "librablock-frontend",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:09.605Z"
                 },
@@ -88,12 +122,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "LibraBlock.io backend in Go",
+                    "homepage": "https://librablock.io",
                     "id": 193499882,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2019-09-16T07:43:35Z",
+                    "open_issues": 0,
                     "owner": "libra-china-org",
                     "repo": "librabock-backend",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:31:09.605Z"
                 }
@@ -119,12 +158,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Client for Diem (previously Libra) for your Server",
+                "homepage": "https://npmjs.com/package/libra-core",
                 "id": 193560131,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-04T00:59:50Z",
+                "open_issues": 31,
                 "owner": "perfectmak",
                 "repo": "libra-core",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "javascript",
+                  "libra",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -135,12 +184,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦄Unofficial Javascript Client for Libra Blockchain (Node.js/Browsers)",
+                "homepage": "https://trylibra.org",
                 "id": 195249267,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T03:40:17Z",
+                "open_issues": 45,
                 "owner": "bandprotocol",
                 "repo": "libra-web",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "blockchain",
+                  "decentralized",
+                  "libra",
+                  "typescript",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -158,12 +218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python client for Libra network",
+                "homepage": null,
                 "id": 195068379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T05:50:37Z",
+                "open_issues": 15,
                 "owner": "bandprotocol",
                 "repo": "pylibra",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -174,12 +239,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "gRPC client for Libra in Python",
+                "homepage": "https://community.libra.org/t/python-grpc-client/657",
                 "id": 193282710,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-23T10:06:12Z",
+                "open_issues": 0,
                 "owner": "egorsmkv",
                 "repo": "libra-grpc-py",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "client",
+                  "grpc",
+                  "libra",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -197,12 +272,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Client for interacting with Libra Blockchain",
+                "homepage": null,
                 "id": 193943214,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-11-26T12:20:47Z",
+                "open_issues": 2,
                 "owner": "codemaveric",
                 "repo": "libra-go",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "blockchain",
+                  "blockchain-technology",
+                  "cryptocurrency",
+                  "go",
+                  "golang",
+                  "golang-package",
+                  "libra",
+                  "libra-go"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -213,12 +302,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Libra go client library with crypto verifications",
+                "homepage": null,
                 "id": 195512023,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-25T05:48:24Z",
+                "open_issues": 5,
                 "owner": "the729",
                 "repo": "go-libra",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "blockchain",
+                  "cryptography",
+                  "go",
+                  "golang",
+                  "javascript",
+                  "libra"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -229,12 +330,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go SDK for the Libra cryptocurrency",
+                "homepage": null,
                 "id": 193282123,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2023-02-25T03:34:59Z",
+                "open_issues": 4,
                 "owner": "philippgille",
                 "repo": "libra-sdk-go",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "cryptocurrency",
+                  "go",
+                  "golang",
+                  "grpc",
+                  "libra",
+                  "package",
+                  "rpc",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -245,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Libra Go client SDK",
+                "homepage": null,
                 "id": 193184128,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-06-22T03:12:55Z",
+                "open_issues": 0,
                 "owner": "phlip9",
                 "repo": "libra_example",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -268,12 +388,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java library for building applications on Diem (previously known as Libra)",
+                "homepage": null,
                 "id": 194726816,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-24T14:27:32Z",
+                "open_issues": 4,
                 "owner": "ketola",
                 "repo": "jlibra",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cryptocurrencies",
+                  "diem",
+                  "hacktoberfest",
+                  "java",
+                  "libra"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -284,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Boot Starter for jlibra usage, see http://blockchainers.org/index.php/2019/07/22/jlibra-connecting-libra-to-java/",
+                "homepage": null,
                 "id": 198306341,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-13T14:49:19Z",
+                "open_issues": 3,
                 "owner": "ice09",
                 "repo": "jlibra-spring-boot-starter",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -300,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Libra Client implementing functionality of the original Libra Rust client, see http://blockchainers.org/index.php/2019/07/22/jlibra-connecting-libra-to-java/ ",
+                "homepage": null,
                 "id": 198306548,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-13T14:49:32Z",
+                "open_issues": 1,
                 "owner": "ice09",
                 "repo": "java-libra-client",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -329,12 +470,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥛分享区块链应用开发实践代码，最新更新在微信公众号「区块链瓦工」",
+                "homepage": "https://w3c.group/g/1124467/join?ref=570fe4f6",
                 "id": 192945029,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-08-16T00:14:00Z",
+                "open_issues": 0,
                 "owner": "learndapp",
                 "repo": "LearnDapp",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "blockchain",
+                  "dapp-example",
+                  "dapper",
+                  "dapps",
+                  "ldc"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -352,12 +504,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libra utils to simplify CLI output parsing",
+                "homepage": null,
                 "id": 195602987,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2019-07-08T10:21:05Z",
+                "open_issues": 0,
                 "owner": "Berkays",
                 "repo": "libra-util",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "blockchain",
+                  "docker",
+                  "libra"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -381,12 +542,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: A Curated List of Awesome Facebook Libra Resources.",
+                "homepage": "https://w3c.group/g/1124464",
                 "id": 194248127,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-22T14:26:21Z",
+                "open_issues": 0,
                 "owner": "learndapp",
                 "repo": "awesome-libra",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "awesome",
+                  "awesome-libra",
+                  "awesome-list",
+                  "blockchain",
+                  "facebook-libra",
+                  "libra",
+                  "libra-blockchain",
+                  "libra-grpc",
+                  "libra-resources"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -397,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Curating the best Libra project and resource",
+                "homepage": null,
                 "id": 192719699,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-07-08T03:46:04Z",
+                "open_issues": 0,
                 "owner": "methuz",
                 "repo": "Awesome-Libra",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             },
@@ -413,12 +594,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome libra ecosystem 😎",
+                "homepage": null,
                 "id": 192808071,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-07-03T06:04:11Z",
+                "open_issues": 1,
                 "owner": "copperbits",
                 "repo": "awesome-libra",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "awesome-list",
+                  "blockchain",
+                  "libra"
+                ]
               },
               "first_seen": "2026-08-28T21:31:09.605Z"
             }
@@ -432,15 +622,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:31:09.605Z",
+    "last_updated": "2026-08-29T04:19:46.616Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A Curated List of Awesome Facebook Libra Resources",
+      "homepage": null,
       "id": 209956937,
       "language": null,
+      "license": null,
       "last_commit": "2021-02-13T12:11:17Z",
+      "open_issues": 65,
       "owner": "reed-hong",
       "repo": "awesome-libra",
-      "stars": 3809
+      "stars": 3809,
+      "topics": []
     },
     "original_repository_sha": "3473f68bd10ab71e1ce5cbd1f8838f3ff06ff334",
     "enhanced_repository": "enhansome/enhansome-libra",
