@@ -281,7 +281,7 @@
                 "open_issues": 2,
                 "owner": "codemaveric",
                 "repo": "libra-go",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "blockchain",
                   "blockchain-technology",
@@ -311,7 +311,7 @@
                 "open_issues": 5,
                 "owner": "the729",
                 "repo": "go-libra",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "blockchain",
                   "cryptography",
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:34:07.379Z",
+    "last_updated": "2026-09-24T15:54:59.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Facebook Libra Resources",

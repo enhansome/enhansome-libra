@@ -31,7 +31,7 @@ A Curated List of Awesome Libra Resources
 * [White Paper](https://libra.org/en-US/white-paper/) - Official description of the Libra
 * [Introducing Libra (YouTube)](https://www.youtube.com/watch?time_continue=1\&v=4zw-jpVFKMY) - Promo video about Libra by Libra Association
 * [libra on Twitter](https://twitter.com/search/libra) - Official twitter account
-* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,662 | 🐛 369 | 🌐 Rust | 📅 2026-09-22 - Official repository
+* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,663 | 🐛 369 | 🌐 Rust | 📅 2026-09-22 - Official repository
 * [Official Community](https://community.libra.org/) - Official Community
 
 # Tools
@@ -70,7 +70,7 @@ A Curated List of Awesome Libra Resources
 
 ## Go
 
-* [Libra Golang Client](https://github.com/codemaveric/libra-go) ⭐ 48 | 🐛 2 | 🌐 Go | 📅 2019-11-26 - Go Client for interacting with Libra Blockchain.
+* [Libra Golang Client](https://github.com/codemaveric/libra-go) ⭐ 49 | 🐛 2 | 🌐 Go | 📅 2019-11-26 - Go Client for interacting with Libra Blockchain.
 * [go-libra](https://github.com/the729/go-libra) ⚠️ Archived - Libra go client library with crypto verifications.
 * [Libra SDK for Go](https://github.com/philippgille/libra-sdk-go) ⭐ 21 | 🐛 4 | 🌐 Go | 📅 2023-02-25 - Go SDK for Libra.
 * [libra\_example](https://github.com/phlip9/libra_example) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2019-06-22 - Example Libra Go client SDK.
@@ -150,4 +150,4 @@ The list is dedicated to the public domain. Use it as you please with no restric
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
