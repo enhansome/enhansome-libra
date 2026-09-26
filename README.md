@@ -31,7 +31,7 @@ A Curated List of Awesome Libra Resources
 * [White Paper](https://libra.org/en-US/white-paper/) - Official description of the Libra
 * [Introducing Libra (YouTube)](https://www.youtube.com/watch?time_continue=1\&v=4zw-jpVFKMY) - Promo video about Libra by Libra Association
 * [libra on Twitter](https://twitter.com/search/libra) - Official twitter account
-* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,663 | 🐛 369 | 🌐 Rust | 📅 2026-09-25 - Official repository
+* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,662 | 🐛 369 | 🌐 Rust | 📅 2026-09-25 - Official repository
 * [Official Community](https://community.libra.org/) - Official Community
 
 # Tools
@@ -77,7 +77,7 @@ A Curated List of Awesome Libra Resources
 
 ## Java
 
-* [jlibra](https://github.com/ketola/jlibra) ⭐ 36 | 🐛 4 | 🌐 Java | 📅 2025-12-24 - A Java library for interacting with the Libra blockchain.
+* [jlibra](https://github.com/ketola/jlibra) ⭐ 37 | 🐛 4 | 🌐 Java | 📅 2025-12-24 - A Java library for interacting with the Libra blockchain.
 * [jlibra-spring-boot-starter](https://github.com/ice09/jlibra-spring-boot-starter) ⭐ 4 | 🐛 3 | 🌐 Java | 📅 2020-10-13 - Spring Boot Starter project based on jlibra.
 * [java-libra-client](https://github.com/ice09/java-libra-client) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2020-10-13 - Java Shell for Libra based on jlibra-spring-boot-starter and jlibra.
 * [libraj](https://github.com/libra-vista/libraj) - A Java client for libra.
@@ -150,4 +150,4 @@ The list is dedicated to the public domain. Use it as you please with no restric
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
