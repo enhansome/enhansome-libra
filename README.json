@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Libra区块链钱包开发实录附源码 - LearnDapp系列",
-              "description": null,
+              "description": "learndapp/LearnDapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,7 +622,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:49:18.253Z",
+    "last_updated": "2026-10-03T04:56:13.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated List of Awesome Facebook Libra Resources",
