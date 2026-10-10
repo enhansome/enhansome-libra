@@ -31,7 +31,7 @@ A Curated List of Awesome Libra Resources
 * [White Paper](https://libra.org/en-US/white-paper/) - Official description of the Libra
 * [Introducing Libra (YouTube)](https://www.youtube.com/watch?time_continue=1\&v=4zw-jpVFKMY) - Promo video about Libra by Libra Association
 * [libra on Twitter](https://twitter.com/search/libra) - Official twitter account
-* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,660 | 🐛 369 | 🌐 Rust | 📅 2026-10-09 - Official repository
+* [Libra on GitHub](https://github.com/libra/libra) ⭐ 16,657 | 🐛 369 | 🌐 Rust | 📅 2026-10-09 - Official repository
 * [Official Community](https://community.libra.org/) - Official Community
 
 # Tools
@@ -150,4 +150,4 @@ The list is dedicated to the public domain. Use it as you please with no restric
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
